@@ -1,0 +1,23 @@
+{
+  "name": "cicd_tutorial",
+  "version": "1.0.0",
+  "description": "CICD neoray project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neo050/CICD_Tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neo050/CICD_Tutorial/issues"
+  },
+  "homepage": "https://github.com/neo050/CICD_Tutorial#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
